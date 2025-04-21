@@ -1,0 +1,15 @@
+{
+  "name": "experimentalrepo2",
+  "version": "1.0.0",
+  "description": "カスタムnpmコマンドの実験リポジトリ",
+  "main": "index.js",
+  "bin": {
+    "custom-command": "./bin/custom-command.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["cli", "command"],
+  "author": "",
+  "license": "ISC"
+}
